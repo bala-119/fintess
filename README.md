@@ -9,4 +9,5 @@ All the content in page are randomly drawn from internet.
 #Contact
 
 Email:shield100potus@gmail.com
-Instagram:rhodhes_royal
+Linkdin : linkedin.com/in/balasubramaniyan-k-59a108279
+Instagram: @rhodhes_royal
