@@ -1,0 +1,38 @@
+.ani{
+    animation-name: hello;
+    animation-duration: 2s;
+    animation-iteration-count: 5s;
+    background-color: red;
+}
+@keyframes hello {
+    0%{
+        color: blue;
+    }
+    25%{
+         color: aqua;
+    }
+    50%{
+         color: blueviolet;
+    }
+    100%{
+        color: bisque;
+    }
+    
+}
+
+/* Default styles (for mobile first) */
+
+/* Tablets (≥ 768px) */
+@media (min-width: 768px) {
+    .ani{
+      background-color: lightblue;
+    }
+  }
+  
+  /* Desktops (≥ 1024px) */
+  @media (min-width: 1024px) {
+    .ani {
+      background-color: lightgreen;
+    }
+  }
+  

@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.navbar-separator {
+  margin-bottom: 20px; /* Adjust this value as needed */
+}
+
+body {
+  background: linear-gradient(270deg, #822887, #080808);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
